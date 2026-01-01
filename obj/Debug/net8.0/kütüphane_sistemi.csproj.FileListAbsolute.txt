@@ -1,0 +1,14 @@
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\kütüphane_sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\kütüphane_sistemi.AssemblyInfoInputs.cache
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\kütüphane_sistemi.AssemblyInfo.cs
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\kütüphane_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\bin\Debug\net8.0\kütüphane_sistemi.exe
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\bin\Debug\net8.0\kütüphane_sistemi.deps.json
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\bin\Debug\net8.0\kütüphane_sistemi.runtimeconfig.json
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\bin\Debug\net8.0\kütüphane_sistemi.dll
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\bin\Debug\net8.0\kütüphane_sistemi.pdb
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\kütüphane_sistemi.dll
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\refint\kütüphane_sistemi.dll
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\kütüphane_sistemi.pdb
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\kütüphane_sistemi.genruntimeconfig.cache
+C:\Users\hsuhe\Desktop\kütüphane_sistemi\obj\Debug\net8.0\ref\kütüphane_sistemi.dll

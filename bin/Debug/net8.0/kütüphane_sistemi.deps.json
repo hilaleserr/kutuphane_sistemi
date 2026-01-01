@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kütüphane_sistemi/1.0.0": {
+        "runtime": {
+          "kütüphane_sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kütüphane_sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

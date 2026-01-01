@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\k\u00FCt\u00FCphane_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane_sistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\kutuphaneci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:kutuphaneci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:kutuphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\temelkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:temelkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|c:\\users\\hsuhe\\desktop\\k\u00FCt\u00FCphane_sistemi\\ikullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C06E4C-696B-4CF4-A233-D2A814D22669}|k\u00FCt\u00FCphane_sistemi.csproj|solutionrelative:ikullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:17:54.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "k\u00FCt\u00FCphane_sistemi",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\k\u00FCt\u00FCphane_sistemi.csproj",
+              "RelativeDocumentMoniker": "k\u00FCt\u00FCphane_sistemi.csproj",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\k\u00FCt\u00FCphane_sistemi.csproj",
+              "RelativeToolTip": "k\u00FCt\u00FCphane_sistemi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T20:04:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Kitap.cs",
+              "RelativeDocumentMoniker": "Kitap.cs",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Kitap.cs",
+              "RelativeToolTip": "Kitap.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:10:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Uye.cs",
+              "RelativeDocumentMoniker": "Uye.cs",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Uye.cs",
+              "RelativeToolTip": "Uye.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:09:55.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kutuphaneci.cs",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Kutuphaneci.cs",
+              "RelativeDocumentMoniker": "Kutuphaneci.cs",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Kutuphaneci.cs",
+              "RelativeToolTip": "Kutuphaneci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:09:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemelKullanici.cs",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\TemelKullanici.cs",
+              "RelativeDocumentMoniker": "TemelKullanici.cs",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\TemelKullanici.cs",
+              "RelativeToolTip": "TemelKullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:09:04.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IKullanici.cs",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\IKullanici.cs",
+              "RelativeDocumentMoniker": "IKullanici.cs",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\IKullanici.cs",
+              "RelativeToolTip": "IKullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:08:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kutuphane.cs",
+              "DocumentMoniker": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Kutuphane.cs",
+              "RelativeDocumentMoniker": "Kutuphane.cs",
+              "ToolTip": "C:\\Users\\hsuhe\\Desktop\\k\u00FCt\u00FCphane_sistemi\\Kutuphane.cs",
+              "RelativeToolTip": "Kutuphane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T20:06:23.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
