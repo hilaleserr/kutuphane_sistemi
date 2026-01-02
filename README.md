@@ -1,4 +1,5 @@
 Kütüphane Yönetim Sistemi - NTP Final Projesi
+
 Bu proje, Nesne Tabanlı Programlama (OOP) prensipleri kullanılarak C# dilinde geliştirilmiş bir Console uygulamasıdır.
 Sistem; kitap, üye ve kütüphaneci yönetimini sağlayan dijital bir kütüphane otomasyonudur.
 
